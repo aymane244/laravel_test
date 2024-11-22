@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 253, 240) !important;
+}
+.align-column{
+    vertical-align: middle;
+    text-align: center;
+}
+.table-responsive{
+    width: 100%;
+    overflow-x: auto;
+}
+.pointer{
+    cursor: pointer;
+}
